@@ -9,4 +9,7 @@ public class Test {
         System.out.println("args = " + args);
 
     }
+    public void test(){
+
+    }
 }
