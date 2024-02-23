@@ -6,5 +6,7 @@ public class Test {
 
         System.out.println("args = " + args);
 
+        System.out.println("args = " + args);
+
     }
 }
