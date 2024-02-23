@@ -12,4 +12,7 @@ public class Test {
     public void test(){
 
     }
+    public void test1(){
+
+    }
 }
